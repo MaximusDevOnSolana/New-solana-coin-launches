@@ -7,7 +7,7 @@ const RPCS = [
   "https://rpc.publicnode.com/solana"
 ];
 
-// SPL Token Program — where all mint instructions come from
+// SPL Token Program — where all mint instructions come from but you can also put your own program that you want like the pump.fun or raydium but this is for all of the new tokens
 const PROGRAMS = [
   new PublicKey("TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA")
 ];
